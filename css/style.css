@@ -23,7 +23,7 @@ header .navbar-default .navbar-nav a {
 }
 
 header .navbar-default .navbar-nav a:hover {
-  color: #ff4081;
+  color: #DAA520;
 }
 
 header .navbar-default .navbar-nav .active a {
@@ -35,7 +35,7 @@ header .navbar-default .navbar-nav .active a {
 }
 
 header .navbar-default .navbar-nav .active a:hover {
-  color: #ff4081;
+  color: #DAA520;
   background: transparent;
   border-bottom: 1px solid #ff4081;
   text-shadow: none;
