@@ -24,7 +24,6 @@ header .navbar-default .navbar-nav a {
 
 header .navbar-default .navbar-nav a:hover {
   color: #ff4081;
-
 }
 
 header .navbar-default .navbar-nav .active a {
@@ -36,7 +35,7 @@ header .navbar-default .navbar-nav .active a {
 }
 
 header .navbar-default .navbar-nav .active a:hover {
-  color: #DAA520;
+  color: #ff4081;
   background: transparent;
   border-bottom: 1px solid #ff4081;
   text-shadow: none;
@@ -571,7 +570,6 @@ p {
   margin-bottom: 30px;
 }
 
-
 #contact a:hover {
   background-color: transparent;
 }
@@ -579,6 +577,10 @@ p {
 .p-contact-email {
   color: #FFFFFF;
   text-decoration: underline;
+}
+
+.p-cntact-phone {
+  color: #FFFFFF !important;
 }
 
 
