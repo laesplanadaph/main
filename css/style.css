@@ -27,7 +27,7 @@ header .navbar-default .navbar-nav a:hover {
 
 }
 
-header .navbar-default .navbar-nav .active a {
+header .navbar-default .navbar-nav .active a:focus {
   font-weight: 700;
   color: #DAA520;
   background: transparent;
@@ -251,18 +251,18 @@ p {
 .fade-carousel .carousel-inner .item .hero {
   opacity: 0;
   -webkit-transition: 2s all ease-in-out .1s;
-  -moz-transition: 2s all ease-in-out .1s; 
-  -ms-transition: 2s all ease-in-out .1s; 
-  -o-transition: 2s all ease-in-out .1s; 
-  transition: 2s all ease-in-out .1s; 
+  -moz-transition: 2s all ease-in-out .1s;
+  -ms-transition: 2s all ease-in-out .1s;
+  -o-transition: 2s all ease-in-out .1s;
+  transition: 2s all ease-in-out .1s;
 }
 .fade-carousel .carousel-inner .item.active .hero {
   opacity: 1;
   -webkit-transition: 2s all ease-in-out .1s;
-  -moz-transition: 2s all ease-in-out .1s; 
-  -ms-transition: 2s all ease-in-out .1s; 
-  -o-transition: 2s all ease-in-out .1s; 
-  transition: 2s all ease-in-out .1s;    
+  -moz-transition: 2s all ease-in-out .1s;
+  -ms-transition: 2s all ease-in-out .1s;
+  -o-transition: 2s all ease-in-out .1s;
+  transition: 2s all ease-in-out .1s;
 }
 
 /* Carousel Button */
@@ -280,10 +280,10 @@ p {
 }
 
 @media screen and (min-width: 980px){
-  .hero { width: 980px; }    
+  .hero { width: 980px; }
 }
 @media screen and (max-width: 640px){
-  .hero h1 { font-size: 4em; }    
+  .hero h1 { font-size: 4em; }
 }
 
 
