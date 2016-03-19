@@ -413,7 +413,7 @@ p {
 *********Gallery*********
 *************************/
 #gallery img, #gallery a {
-  max-width: 100%;
+  max-width: 100% !important;
 }
 
 #gallery a {
