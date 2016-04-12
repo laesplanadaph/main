@@ -342,7 +342,14 @@ p {
 
 #services img{
   max-width: 100%;
+}
+
+.img1 {
   border-radius: 0 50px 50px 0;
+}
+
+.img2 {
+  border-radius: 50px 0 0 50px;
 }
 
 #services h3 {
