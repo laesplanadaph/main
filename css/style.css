@@ -369,41 +369,72 @@ p {
 /************************
 *******Facilities********
 *************************/
-#icon-credit-card, .font-credit-card {
+.font-credit-card {
   color: #009688;
 }
 
-#icon-wifi, .font-wifi {
+#icon-credit-card {
+  background-color: #009688;
+}
+
+.font-wifi {
   color: #00bcd4;
 }
 
-#icon-hand-paper-o, .font-hand-paper-o {
+#icon-wifi {
+  background-color: #00bcd4;
+}
+
+.font-hand-paper-o {
   color: #ffc107;
 }
 
-#icon-spinner, .font-spinner {
+#icon-hand-paper-o {
+  background-color: #ffc107;
+}
+
+.font-spinner {
   color: #f44336;
 }
 
-#icon-television, .font-television {
+#icon-spinner {
+  background-color: #f44336;
+}
+
+.font-television {
   color: #9c27b0;
 }
 
-#icon-power-off, .font-power-off {
+#icon-television {
+  background-color: #9c27b0;
+}
+
+.font-power-off {
   color: #4caf50;
 }
 
-#icon-fire, .font-fire {
+#icon-power-off {
+  background-color: #4caf50;
+}
+
+.font-fire {
   color: #ff9800;
 }
 
-#icon-car, .font-car {
+#icon-fire {
+  background-color: #ff9800;
+}
+
+.font-car {
   color: #e91e63;
 }
 
+#icon-car {
+  background-color: #e91e63;
+}
+
 #icon-credit-card, #icon-wifi, #icon-hand-paper-o, #icon-spinner, #icon-television, #icon-power-off, #icon-fire, #icon-car {
-  background-color: #FFFFFF;
-  border: 1px solid;
+  color: #FFFFFF;
 }
 
 .facilities-icons {
