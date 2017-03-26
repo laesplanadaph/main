@@ -720,3 +720,14 @@ footer .phone {
   font-weight: 700;
   color: #E0E6AE;
 }
+
+#quote {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: "Calibri";
+  font-style: italic;
+}
+
+#gallery_padding {
+  padding: 10px;
+}
