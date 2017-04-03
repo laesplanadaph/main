@@ -460,6 +460,21 @@ p {
 
 #gallery a, #gallery img {
   height: auto 0;
+} */
+
+#gallery_padding {
+  padding: 10px;
+}
+
+.nav-gallery > li {
+    float:none;
+    display:inline-block;
+    *display: inline;     /* for IE7*/
+    *zoom:1;              /* for IE7*/
+}
+
+.nav-gallery {
+    text-align:center;
 }
 
 ************************
@@ -726,20 +741,4 @@ footer .phone {
   font-size: 25px;
   font-family: "Calibri";
   font-style: italic;
-}
-
-#gallery_padding {
-  padding: 10px;
-}
-
-.nav-tabs > li, .nav-pills > li {
-    float:none;
-    display:inline-block;
-    *display: inline;     /* for IE7*/
-    *zoom:1;              /* for IE7*/
-
-}
-
-.nav-tabs {
-    text-align:center;
 }
