@@ -481,7 +481,7 @@ p {
     text-align:center;
 }
 
-.col-centered {
+.col-xs-4 {
     display:inline-block;
     float:none;
     /* reset the text-align */
