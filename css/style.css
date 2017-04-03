@@ -211,6 +211,10 @@ p {
   color: #FFFFFF;
 }
 
+.font-dark {
+  color: #0f0f0f;
+}
+
 #contact h2, #contact p, #contact h4  {
   /*text-shadow:0 0 50px #000000;*/
 }
