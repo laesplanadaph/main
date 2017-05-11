@@ -175,7 +175,7 @@ p {
 }
 
 .content {
-  padding: 5em 0;
+  padding: 5em;
 }
 
 .page h2 {
@@ -594,7 +594,7 @@ p {
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
 
     #quote-carousel .carousel-indicators {
-      bottom: -20px !important;
+      bottom: -25%;
     }
     #quote-carousel .carousel-indicators li {
       display: inline-block;
