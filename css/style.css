@@ -511,12 +511,12 @@ p {
 /* Previous button  */
 #quote-carousel .carousel-control.left
 {
-  left: -12px;
+  left: -10%;
 }
 /* Next button  */
 #quote-carousel .carousel-control.right
 {
-  right: -12px !important;
+  right: -10%;
 }
 /* Changes the position of the indicators */
 #quote-carousel .carousel-indicators
